@@ -6,7 +6,7 @@ Chaney Chantipaporn
 
 Nhat Nguyen
 
-Tony Nguyen - Email: Tonyxd14@csu.fullerton.edu - CWID: 889700894
+Tony Nguyen
 
 ## Project Requirements
 This project will run in Tuffix 2020 using Pythin 3.8.10. 
@@ -31,7 +31,7 @@ To run server.py, in the terminal type:
 
 python server.py
 
-Here you should see 'seerving at port 8080'
+Here you should see 'serving at port 8080'
 
 ![example 2](/Proj1/images/P1_ex2.png)
 
