@@ -17,7 +17,7 @@ Visual Studio Code is reccomended but not required.
 In this project we are using Python and the HTTP protocol to implement an HTTP client and server. The purpose of this project is to build a version of the FOAAS service which provides the same HTML pages as the original service, but uses language suitable for a professional environment. To accomplish this, the requested URL from FOAAS is retreived and passes its outputs through the PurgoMalum service in order to render the text work-appropriate before returning it to the user as HTML. In addition, a custom HTTP handler is implemented in order to generate the corresponding HTML for users to include in company chats.
 
 ## How to Run the Program
-To run reedact.py, in the terminal type:
+To run redact.py, in the terminal type:
 
 python redact.py / "path in FOAAS" / "name"
 
