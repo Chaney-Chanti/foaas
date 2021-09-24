@@ -25,7 +25,7 @@ Example:
 
 python redact.py /because/John
 
-![example 1](/images/P1_ex1.png)
+![example 1](/Proj1/images/P1_ex1.png)
 
 To run server.py, in the terminal type:
 
@@ -33,7 +33,7 @@ python server.py
 
 Here you should see 'seerving at port 8080'
 
-![example 2](/images/P2_ex2.png)
+![example 2](/Proj1/images/P2_ex2.png)
 
 Next, go to your web browser and type:
 
@@ -45,4 +45,4 @@ localhost:8080/because/John
 
 The webpage should look like this image below:
 
-![example 3](/images/P3_ex3.png)
+![example 3](/Proj1/images/P3_ex3.png)
