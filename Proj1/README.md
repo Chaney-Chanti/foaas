@@ -1,6 +1,6 @@
-# CPSC 449 Project 1 HTTP Clients and Web Servers
+# CPSC 449 - Project 1: HTTP Clients and Web Servers
 
-Group Members:
+## Group Members:
 
 Chaney Chantipaporn
 
@@ -25,7 +25,7 @@ Example:
 
 python redact.py /because/John
 
------PICTURE HERE-----
+![example 1](/images/P1_ex1.png)
 
 To run server.py, in the terminal type:
 
@@ -33,7 +33,7 @@ python server.py
 
 Here you should see 'seerving at port 8080'
 
------PICTURE HERE-----
+![example 2](/images/P2_ex2.png)
 
 Next, go to your web browser and type:
 
@@ -45,4 +45,4 @@ localhost:8080/because/John
 
 The webpage should look like this image below:
 
------PICTURE HERE-----
+![example 3](/images/P3_ex3.png)
