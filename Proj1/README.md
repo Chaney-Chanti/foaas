@@ -6,7 +6,7 @@ Chaney Chantipaporn
 
 Nhat Nguyen
 
-Tony Nguyen
+Tony Nguyen - Email: Tonyxd14@csu.fullerton.edu - CWID: 889700894
 
 ## Project Requirements
 This project will run in Tuffix 2020 using Pythin 3.8.10. 
